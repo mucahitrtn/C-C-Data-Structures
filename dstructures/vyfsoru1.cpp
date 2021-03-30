@@ -88,7 +88,7 @@ void print() {
 	LinkedList* temp = head;
 	int sag=0, sol=0;
 	if (temp == NULL) {
-		cout << " böle biþe yok";
+		cout << " Empty \n";
 		return;
 	}
 
